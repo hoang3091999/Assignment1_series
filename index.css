@@ -245,12 +245,6 @@ body{
 .pop_up .trailer_info{
     top: 25%;   
 }
-.box{
-    background: #1a1a1a;
-    padding: 30px;
-    border-radius: 8px;
-    max-width: 800px;   
-}
 .close_button {
     position: absolute;
     width: 36px;
